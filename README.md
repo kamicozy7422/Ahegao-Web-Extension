@@ -2,9 +2,9 @@
 
 Wouldn't it will be nice if every image on the websites you visit will be turned to ahegao. Yes thats what this extension is made for.
 
-To do list :
-add more ahegoa images
-web crawler to scrape online ahegao images
-uploading your own images
+To do list :<br />
+add more ahegoa images<br />
+web crawler to scrape online ahegao images<br />
+uploading your own images<br />
 
 NOTE : Still in development
